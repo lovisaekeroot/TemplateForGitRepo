@@ -21,7 +21,7 @@ You should see your username printed out below the given command.
 Exactly the same but for "user.email"
 
 ## Step 1:
-Create a GitHub Repository with a name and have the "Add README.md" added in the creation of the repository.
+Create a GitHub Repository with a name and have the "Add README.md" added in the creation of the repository. The repo should be public!
 
 ## Step 2:
 Use SSH Keys to connect the local computers with the GitHub repository. Do this by using the following commands in the terminal on your computer:
